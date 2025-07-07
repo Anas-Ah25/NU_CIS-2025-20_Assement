@@ -1,4 +1,3 @@
-````markdown
 # NU_CIS-2025-20_Assessment
 
 Solution for the Nile University CIS 48-Hour Challenge.
@@ -18,7 +17,7 @@ Solution for the Nile University CIS 48-Hour Challenge.
 2. Change the path to your CSV at the top:
    ```python
    courses_File = "courses_data.csv"
-````
+
 
 3. Run all cells.
 4. toogle to the table of contents to navigate better, you can View `courses_Graph.html` or go to results section in Task 1 part to call the in-notebook visual for student courses progress, or results section in Task 2 to test the recomendation suggestion for a semester for a student.
