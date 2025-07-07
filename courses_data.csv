@@ -1,0 +1,54 @@
+course_id,name,credits,tag,prerequisites
+NU-CS101,Intro to Computing,3,Core,
+NU-CS102,Python Programming,3,Core,
+NU-CS103,Foundations of CS,3,Core,
+NU-MATH101,Calculus I,4,Math,
+NU-MATH102,Linear Algebra I,4,Math,
+NU-PHY101,Physics I,4,Science,
+NU-BIO101,Biology for Engineers,3,Science,
+NU-ENG101,Academic Writing,2,Humanities,
+NU-SS101,Critical Thinking,2,Humanities,
+NU-ART101,Art Appreciation,2,Elective,
+NU-IT101,Digital Literacy,2,Elective,
+NU-SOC101,Sociology,2,Elective,
+NU-MUS101,Music Basics,2,Elective,
+NU-CS201,Data Structures,3,Core,NU-CS102|NU-CS103
+NU-CS202,Object-Oriented Design,3,Core,NU-CS102
+NU-DS201,Data Science I,3,DSAI,NU-DS101
+NU-NET201,Computer Networks I,3,NTIT,NU-NET101
+NU-WEB201,Web Dev I,3,CS,NU-WEB101
+NU-AI201,AI Fundamentals,3,DSAI,NU-AI101
+NU-SEC201,Security Basics,3,NTIT,NU-SEC101
+NU-GFX201,Graphics Basics,3,Gaming,NU-CS102
+NU-CS301,Algorithms,3,Core,NU-CS201
+NU-DS301,Data Science II,3,DSAI,NU-DS101
+NU-NET301,Networks II,3,NTIT,NU-NET101
+NU-WEB301,Web Dev II,3,CS,NU-WEB101
+NU-AI301,Machine Learning,3,DSAI,NU-AI101
+NU-SEC301,Applied Cryptography,3,NTIT,NU-SEC101
+NU-GFX301,Rendering Techniques,3,Gaming,NU-GFX201
+NU-SYS301,Operating Systems,3,CS,NU-CS201
+NU-DB301,Database Systems,3,CS,NU-CS202
+NU-CS401,Parallel Computing,3,CS,NU-SYS301
+NU-DS401,Big Data Analytics,3,DSAI,NU-DS101
+NU-NET401,Network Security,3,NTIT,NU-SEC101
+NU-WEB401,Cloud Web Apps,3,CS,NU-WEB101
+NU-AI401,Deep Learning,3,DSAI,NU-AI101
+NU-GFX401,Game Engine Design,3,Gaming,NU-GFX301
+NU-SEC401,Penetration Testing,3,NTIT,NU-SEC101
+NU-SYS402,Distributed Systems,3,CS,NU-SYS301
+NU-CAP401,Capstone Project,3,Core,NU-CS301|NU-SYS301
+NU-BUS101,Intro to Business,3,Elective,
+NU-PHY102,Astronomy,3,Science,
+NU-LANG101,Basic Spanish,2,Humanities,
+NU-MATH103,Probability,3,Math,
+NU-ENV101,Environmental Science,3,Science,
+NU-CS501,Advanced Algorithms,3,CS,NU-CS301
+NU-CS502,Software Architecture,3,CS,NU-CS305
+NU-CS503,DevOps Practices,3,CS,NU-CS403
+NU-CS504,Cloud Native Development,3,CS,NU-CS403|NU-SYS402
+NU-GM201,Game Design Principles,3,Gaming,
+NU-GM301,Unity Game Development,3,Gaming,NU-GFX301
+NU-GM401,Advanced Game AI,3,Gaming,NU-AI301|NU-GFX301
+NU-GM402,VR Game Development,3,Gaming,NU-GM301
+NU-GM403,Game Engine Architecture,3,Gaming,NU-CS303|NU-GM301
