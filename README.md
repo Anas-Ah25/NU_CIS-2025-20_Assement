@@ -10,6 +10,9 @@ Solution for the Nile University CIS 48-Hour Challenge.
 - **trained_model.pkl** – Saved Q-table
 - **courses_Graph.html** – Interactive curriculum graph
 - **student_\<ID\>_graph.html** – Per-student graphs
+  
+### Note:
+* Github preivew dont show the html based output in the code cells, so it's better to open the notebook from colab to inspect current results 
 
 ## Usage
 
